@@ -38,3 +38,13 @@
     * HTML Academy
     * WayUp
 ---
+## **Languages**
+* English - A2 (B1 in process…)
+* Belarusian - native speaker.
+* Russian - native speaker.
+---
+## **Contacts**
+* Telegram: [Mikita Tsynakou](https://t.me/mikdalton)
+* E-mail: mikita.tsyhankou@gmail.com
+* GitHub [MikDalton ](https://github.com/Mikita2703)
+---
