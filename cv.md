@@ -24,3 +24,17 @@
 </body>
 </html>
 ```
+---
+## **Experience**
+### No experience yet
+---
+## **Projects**
+### No projects yet :D
+---
+## Education
+* **University:** Belarusian National Technical University
+    + Automated electric drives
+* **Courses:**
+    * HTML Academy
+    * WayUp
+---
