@@ -1,0 +1,10 @@
+*{
+    margin: auto auto;
+}
+body {
+    background-color: pink;
+}
+h1 {
+    color: aqua;
+    font-size: 48px;
+}
